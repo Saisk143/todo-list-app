@@ -14,12 +14,6 @@ This app helps you keep track of your daily tasks with an easy-to-use interface.
 
 ---
 
-## 📂 Project Structure
-todolist-app/
- ├── index.html     # Main HTML file
- ├── style.css      # CSS styling
- ├── script.js      # JavaScript logic
- └── README.md      # Project description file
 
 ## 📷 Screenshots
 ### In Website
@@ -28,3 +22,5 @@ todolist-app/
 ### In mobile
 <img width="289" height="514" alt="todo-screenshot-mobile" src="https://github.com/user-attachments/assets/1d226d33-e9ed-427d-ba4e-b5a8bd6bfed8" />
 
+## 📂 Project Structure
+<img width="332" height="123" alt="todo-project-structure" src="https://github.com/user-attachments/assets/b893329c-4ea0-496b-ad8c-b0fa393a00b3" />
